@@ -1,0 +1,39 @@
+#outer{
+    
+    height: 500px;
+    width: 500px;
+    border: 2px solid black ;
+    display: flex;
+
+  
+   
+}
+
+h1{
+    font-family: rubik scribble;
+    color: white;
+   
+}
+
+
+#div1{
+    background-color: black;
+  
+    height: 50px;
+    width: 50px;
+    
+}
+#div2{
+    background-color: aqua;
+    
+}
+.spacer{
+    aspect-ratio: 900/450;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.layer1{
+    background-image: url(./layered-waves-haikei.svg);
+}
